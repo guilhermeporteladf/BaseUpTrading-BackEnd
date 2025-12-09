@@ -4,3 +4,4 @@ dist
 .env.local
 *.log
 .DS_Store
+VERCEL_ENV_VARS_COPY_PASTE.txt
